@@ -2,6 +2,8 @@
 A speech-to-text bot for Discord written in NodeJS.
 Can be useful for hearing impaired and deaf people.
 
+YOU WILL NEED THIS: https://github.com/imayhaveborkedit/discord-ext-voice-recv/
+
 ## Getting Started:
 
 
